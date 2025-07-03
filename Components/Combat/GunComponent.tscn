@@ -15,7 +15,7 @@ metadata/_edit_group_ = true
 texture_filter = 2
 texture = ExtResource("3_snrc7")
 region_enabled = true
-region_rect = Rect2(592, 144, 16, 16)
+region_rect = Rect2(623.5582, 146.04279, 16.589905, 10.796585)
 
 [node name="BulletEmitter" type="Marker2D" parent="GunSprite"]
 unique_name_in_owner = true
