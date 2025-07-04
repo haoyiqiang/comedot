@@ -48,10 +48,9 @@ size = Vector2(224, 112)
 [node name="ComponentSwappingExample" type="Node2D"]
 script = ExtResource("1_4lwh0")
 mainGameScenePath = "uid://ce4b6wa8rpqbs"
-showDebugWindow = false
-shouldPrintDebugLogs = false
-showDebugLabels = false
-showDebugBackground = false
+showDebugWindow = true
+shouldPrintDebugLogs = true
+showDebugLabels = true
 
 [node name="DebugBackground" parent="." instance=ExtResource("2_q3rkf")]
 modulate = Color(0.4, 0.4, 0.4, 1)
