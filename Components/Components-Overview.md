@@ -142,6 +142,7 @@ Components/
 │   ├── 📄 TileBasedControlComponent.gd      # 瓦片控制组件
 │   ├── 📄 MouseRotationComponent.gd         # 鼠标旋转组件
 │   ├── 📄 MouseTrackingComponent.gd         # 鼠标追踪组件
+│   ├── 📄 JumpControlComponent.gd           # 跳跃控制组件
 │   ├── 📄 JumpComponent.gd                  # 跳跃组件
 │   ├── 📄 ClimbComponent.gd                 # 攀爬组件
 │   ├── 📄 ThrustControlComponent.gd         # 推进控制组件
@@ -321,6 +322,9 @@ Components/
 
 #### [MouseTrackingComponent](./Control/MouseTrackingComponent.md)
 **鼠标追踪组件** - 跟踪鼠标位置进行移动。
+
+#### [JumpControlComponent](./Control/JumpControlComponent.md)
+**跳跃控制组件** - 专业的跳跃控制系统，支持多段跳、墙跳、土狼跳跃和短跳等高级功能。
 
 #### [JumpComponent](./Control/JumpComponent.md)
 **跳跃组件** - 实现跳跃功能，支持多段跳和土狼时间。
